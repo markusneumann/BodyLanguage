@@ -1,0 +1,1 @@
+The results from the combined face recognition and pose detection are too large for a GitHub repository. Download them from this GDrive link and put them in this directory. The correct folder structure is results/combined_fr_pd.
