@@ -1,4 +1,4 @@
-# BodyLanguage
+# Body Language and Gender Stereotypes in Campaign Video
 Replication repository for the paper 'Body Language and Gender Stereotypes in Campaign Video' in Computational Communication Research.
 
 Authors: Markus Neumann, Erika Franklin Fowler, Travis Ridout (all Wesleyan Media Project)
